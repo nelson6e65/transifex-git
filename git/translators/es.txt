@@ -1,0 +1,7 @@
+# Spanish translation for Git.
+# Copyright (C) 2016 Nelson Martell <nelson6e65@gmail>
+# This file is distributed under the same license as the Git package.
+# Nelson Martell <nelson6e65@gmail.com>, 2016.
+
+"Project-Id-Version: Git\n"
+"Content-Type: text/plain; charset=UTF-8\n"
